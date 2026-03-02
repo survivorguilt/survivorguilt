@@ -1,6 +1,6 @@
 <div align="center">
  
- $\small\color{#90e0ef}{\textsf{youre  a  big  girl  now !}}$
+ $\small\color{#723D46}{\textsf{call me and ill come}}$
 </div>
 
 
@@ -20,8 +20,8 @@
 
 <div align="center">
 
- ![Image](https://github.com/jimmycrystal/jimmycrystal/blob/main/2856ee27a392fb54c6bee0ded0742184.jpg)
+ ![Image](https://github.com/user-attachments/assets/2f6ef55d-592e-4b78-b7b2-4543bea652ef)
 </div>
 <p align="center">
- $\small\color{#90e0ef}{\textsf{i luv kobik !! }}$
+ $\small\color{#723D46}{\textsf{i luv simon n patty !! mi bebehs}}$
 </p>
